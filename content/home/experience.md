@@ -39,8 +39,7 @@ sensetime research.
 
 [[experience]]
   title = "Research Assistant"
-  company = "Group of Learning and Intelligent Understanding for Vision and Multimedia, Dalian University of
- Technology"
+  company = "Group of Learning and Intelligent Understanding for Vision and Multimedia, Dalian University of Technology"
   company_url = "http://dutmedia.org"
   location = "Dalian, China"
   date_start = "2016-12"
