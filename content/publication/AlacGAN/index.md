@@ -31,15 +31,16 @@ summary:  We proposed a model and a dataset for accurate anime line art coloriza
 
 
 tags:
-- GAN, anime
+- GAN
+- anime
 featured: true
 
 links:
-- name: Custom Link
-  url: http://example.org
 url_pdf: https://arxiv.org/pdf/1808.03240.pdf
 url_code: 'https://github.com/orashi/AlacGAN'
 url_dataset: 'https://pan.baidu.com/s/1oHBqdo2cdM8jOmAaix9xpw'
+#- name: Custom Link
+#  url: http://example.org
 #url_poster: '#'
 #url_project: ''
 #url_slides: ''
@@ -49,7 +50,7 @@ url_dataset: 'https://pan.baidu.com/s/1oHBqdo2cdM8jOmAaix9xpw'
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  #caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  #caption: 'Our proposed method colorizes a line art composed by artist (left) based on guided stroke colors.'
   focal_point: ""
   preview_only: false
 
@@ -68,14 +69,4 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-
-#{{% alert note %}}
-#Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-#{{% /alert %}}
-
-#{{% alert note %}}
-#Click the *Slides* button above to demo Academic's Markdown slides feature.
-#{{% /alert %}}
-
-#Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 

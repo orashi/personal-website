@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Yuanzheng Ci 次元政
+name: Yuanzheng Ci
 
 # Username (this should match the folder name)
 authors:
@@ -45,9 +45,12 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:mail@yuanzheng.ci'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
+- icon: zhihu
   icon_pack: fab
-  link: https://twitter.com/JigenOrashi
+  link: 'https://www.zhihu.com/people/ci-yuan-zheng'
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/JigenOrashi
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=UoMoRM8AAAAJ&hl=en
