@@ -71,4 +71,4 @@ user_groups:
 ---
 
 
-I will be a Ph.D. candidate in the School of Electrical & Information Engineering in October 2019, The University of Sydney, where I would work at the SIGMA Lab under the supervision of Prof. Wanli Ouyang and Prof. Luping Zhou. Before that, I received my B.Eng. degree in Software Engineering and B.A. dual degree in Japanese from the International School of Information Science & Engineering, Dalian University of Technology in 2019.
+I will be a Ph.D. candidate in the School of Electrical & Information Engineering in October 2019, The University of Sydney, where I would work at the [SIGMA Lab](https://sigmalab-usyd.github.io/) under the supervision of [Prof. Wanli Ouyang](https://sydney.edu.au/engineering/people/wanli.ouyang.php) and [Prof. Luping Zhou](https://sydney.edu.au/engineering/people/luping.zhou.php). Before that, I received my B.Eng. degree in Software Engineering and B.A. dual degree in Japanese from the International School of Information Science & Engineering, Dalian University of Technology in 2019.

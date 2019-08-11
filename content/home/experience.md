@@ -28,7 +28,6 @@ date_format = "Jan 2006"
 Proposed a novel neural architecture search space and a corresponding algorithm that outperformed previous state-of-
 the-art models in terms of accuracy under resource constraints. Also a major contributor to the NAS tool chain of the
 sensetime research.
-
   """
 #  description = """
 #  Responsibilities include:
