@@ -32,7 +32,7 @@ summary:  We proposed a model and a dataset for accurate anime line art coloriza
 
 tags:
 - GAN
-- anime
+- Anime
 featured: true
 
 links:
