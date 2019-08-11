@@ -22,7 +22,7 @@ date_format = "Jan 2006"
   company = "Urban Computing Group, SenseTime Group Limited"
   company_url = "https://wuwei-ai.org/ucg-members/"
   location = "Beijing, China"
-  date_start = "2018-07"
+  date_start = "2018-07-31"
   date_end = ""
   description = """
 Proposed a novel neural architecture search space and a corresponding algorithm that outperformed previous state-of-
@@ -42,8 +42,8 @@ sensetime research.
   company = "Group of Learning and Intelligent Understanding for Vision and Multimedia, Dalian University of Technology"
   company_url = "http://dutmedia.org"
   location = "Dalian, China"
-  date_start = "2016-12"
-  date_end = "2018-07"
+  date_start = "2016-12-01"
+  date_end = "2018-07-30"
   description = """Researched Generative Adversarial Networks and their application on anime line art colorization."""
 
 +++
