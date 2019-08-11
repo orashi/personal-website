@@ -424,7 +424,7 @@
       // The `color_theme` of the site is dark.
       defaultThemeVariation = 1;
     } else if ($('.js-dark-toggle').length && window.matchMedia('(prefers-color-scheme: dark)').matches) {
-      // The visitor prefers dark themes and switching to the dark variation is allowed by admin.
+      // The visitor prefers dark themes and switching to the dark variation is allowed by orashi.
       defaultThemeVariation = 1;
     } else {
       // Default to day (light) theme.

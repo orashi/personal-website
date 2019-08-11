@@ -18,27 +18,34 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Research Intern"
+  company = "Urban Computing Group, SenseTime Group Limited"
+  company_url = "https://wuwei-ai.org/ucg-members/"
+  location = "Beijing, China"
+  date_start = "2018-07"
   date_end = ""
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+Proposed a novel neural architecture search space and a corresponding algorithm that outperformed previous state-of-
+the-art models in terms of accuracy under resource constraints. Also a major contributor to the NAS tool chain of the
+sensetime research.
+
   """
+#  description = """
+#  Responsibilities include:
+#  
+# * Analysing
+#  * Modelling
+#  * Deploying
+#  """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Research Assistant"
+  company = "Group of Learning and Intelligent Understanding for Vision and Multimedia, Dalian University of
+ Technology"
+  company_url = "http://dutmedia.org"
+  location = "Dalian, China"
+  date_start = "2016-12"
+  date_end = "2018-07"
+  description = """Researched Generative Adversarial Networks and their application on anime line art colorization."""
 
 +++
