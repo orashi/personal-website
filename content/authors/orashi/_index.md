@@ -77,4 +77,4 @@ user_groups:
 ---
 
 
-I will be ██████████████████████████████████████████████ & ████████████████████████████████████████, █████████████████████████, ███████████████████████████████████████████████████████████████████████████████████. Before that, I received my B.Eng. degree in Software Engineering and B.A. dual degree in Japanese from the International School of Information Science & Engineering, Dalian University of Technology in 2019.
+I will be ██████████████████████████████████████████████ & ████████████████████████████████████████, ████████████ █████████████, ██████████████████████████████████████████ █████████████████████████████████████████. Before that, I received my B.Eng. degree in Software Engineering and B.A. dual degree in Japanese from the International School of Information Science & Engineering, Dalian University of Technology in 2019.
