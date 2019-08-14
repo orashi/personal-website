@@ -27,16 +27,18 @@ interests:
 
 education:
   courses:
-  - course: Ph.D. Candidate in Electrical & Information Engineering
-    institution: The University of Sydney
-    year: 2019-present
+  - course: \[DATA EXPUNGED\]
+    institution: \[DATA EXPUNGED\]
+    year: \[DATA EXPUNGED\]
   - course: B.A. in Japanese (Dual Degree)
     institution: Dalian University of Technology
     year: 2015-2019
   - course: B.Eng. in Software Engineering
     institution: Dalian University of Technology
     year: 2015-2019
-
+  #- course: Ph.D. Candidate in Electrical & Information Engineering
+  #  institution: The University of Sydney
+  #  year: 2019-present
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -74,4 +76,5 @@ user_groups:
 ---
 
 
-I will be a Ph.D. candidate in the School of Electrical & Information Engineering in October 2019, The University of Sydney, where I would work at the [SIGMA Lab](https://sigmalab-usyd.github.io/) under the supervision of [Prof. Wanli Ouyang](https://sydney.edu.au/engineering/people/wanli.ouyang.php) and [Prof. Luping Zhou](https://sydney.edu.au/engineering/people/luping.zhou.php). Before that, I received my B.Eng. degree in Software Engineering and B.A. dual degree in Japanese from the International School of Information Science & Engineering, Dalian University of Technology in 2019.
+I will be ██████████████████████████████████████████████&████████████████████████████████████████,█████████████████████████,███████████████████████████████████████████████████████████████████████████████████. Before that, I received my B.Eng. degree in Software Engineering and B.A. dual degree in Japanese from the International School of Information Science & Engineering, Dalian University of Technology in 2019.
+# a Ph.D. candidate in the School of Electrical & Information Engineering in October 2019, The University of Sydney, where I would work at the [SIGMA Lab](https://sigmalab-usyd.github.io/) under the supervision of [Prof. Wanli Ouyang](https://sydney.edu.au/engineering/people/wanli.ouyang.php) and [Prof. Luping Zhou](https://sydney.edu.au/engineering/people/luping.zhou.php)
