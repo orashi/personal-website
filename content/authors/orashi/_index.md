@@ -27,9 +27,9 @@ interests:
 
 education:
   courses:
-  - course: \[DATA EXPUNGED\]
-    institution: \[DATA EXPUNGED\]
-    year: \[DATA EXPUNGED\]
+  - course: [DATA EXPUNGED]
+    institution: [DATA EXPUNGED]
+    year: [DATA EXPUNGED]
   - course: B.A. in Japanese (Dual Degree)
     institution: Dalian University of Technology
     year: 2015-2019
