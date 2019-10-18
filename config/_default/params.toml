@@ -59,8 +59,8 @@ time_format = "3:04 PM"
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "mail@yuanzheng.ci"
-phone = "+86 186 4030 1480"
-address = "11F, Ideal International Plaza, No.58 Northwest 4th Ring Road, Haidian, Beijing 100080, China"
+phone = "+61 0480 179 252"
+address = "Room 103, J12 - Link Building, Engineering Walk, Darlington, NSW 2008, Australia"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 office_hours = ""   #"""Monday 10:00 to 13:00<br>
@@ -96,8 +96,8 @@ contact_links = [
 #   3: OpenStreetMap (Mapbox)
 map = 2
 map_api_key = ""
-latitude = "39.98315"
-longitude = "116.30393"
+latitude = "-33.88969"
+longitude = "151.19384"
 zoom = 15
 
 ############################

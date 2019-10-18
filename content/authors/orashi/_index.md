@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Research Intern
+role: Ph.D Candidate
 
 # Organizations/Affiliations
 organizations:
-- name: SenseTime Group Limited
-  url: ""
+- name: The University of Sydney
+  url: "https://sydney.edu.au/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Neural Architecture Search, Generative Adversarial Networks and Reinforcement Learning.
@@ -75,4 +75,4 @@ user_groups:
 ---
 
 
-I will be a Ph.D. candidate in the School of Electrical & Information Engineering in October 2019, The University of Sydney, where I would work at the [SIGMA Lab](https://sigmalab-usyd.github.io/) under the supervision of [Prof. Wanli Ouyang](https://sydney.edu.au/engineering/people/wanli.ouyang.php) and [Prof. Luping Zhou](https://sydney.edu.au/engineering/people/luping.zhou.php). Before that, I received my B.Eng. degree in Software Engineering and B.A. dual degree in Japanese from the International School of Information Science & Engineering, Dalian University of Technology in 2019.
+I am a fresh Ph.D. candidate in the School of Electrical & Information Engineering, The University of Sydney, where I work at the [SIGMA Lab](https://sigmalab-usyd.github.io/) under the supervision of [Prof. Wanli Ouyang](https://sydney.edu.au/engineering/people/wanli.ouyang.php) and [Prof. Luping Zhou](https://sydney.edu.au/engineering/people/luping.zhou.php). Before that, I received my B.Eng. degree in Software Engineering and B.A. dual degree in Japanese from the International School of Information Science & Engineering, Dalian University of Technology in 2019.
