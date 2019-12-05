@@ -60,7 +60,7 @@ time_format = "3:04 PM"
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "mail@yuanzheng.ci"
 phone = "+61 0480 179 252"
-address = "Room 103, J12 - Link Building, Engineering Walk, Darlington, NSW 2008, Australia"
+address = "Room 103, J13 - Link Building, Engineering Walk, Darlington, NSW 2008, Australia"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 office_hours = ""   #"""Monday 10:00 to 13:00<br>
