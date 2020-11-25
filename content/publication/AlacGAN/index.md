@@ -7,8 +7,7 @@ authors:
 - Haojie Li
 - Zhongxuan Luo
 date: "2018-10-22T00:00:00Z"
-doi: "10.1145/3240508.3240661
-"
+doi: "10.1145/3240508.3240661"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2019-08-11T00:00:00Z"
