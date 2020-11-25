@@ -1,5 +1,5 @@
 ---
-title: "User-guided deep anime line art colorization with conditional adversarial networks"
+title: "User-Guided Deep Anime Line Art Colorization with Conditional Adversarial Networks"
 authors:
 - orashi
 - Xinzhu Ma
@@ -33,7 +33,7 @@ summary:  We proposed a model and a dataset for accurate anime line art coloriza
 tags:
 - GAN
 - Anime
-featured: true
+featured: false
 
 links:
 url_pdf: https://arxiv.org/pdf/1808.03240.pdf
