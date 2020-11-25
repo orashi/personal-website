@@ -27,7 +27,7 @@ abstract: The automation of neural architecture design has been a coveted altern
 
 
 # Summary. An optional shortened abstract.
-summary:  We proposed a model and a dataset for accurate anime line art colorization. This model improved the visual result over the previously proposed methods.
+summary:  We introduce a neural architecture search scheme called NSE. It can progressively accommodate new search space while maintaining the previously obtained knowledge.
 
 
 tags:
