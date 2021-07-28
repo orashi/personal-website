@@ -18,12 +18,12 @@ organizations:
   url: "https://sydney.edu.au/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Neural Architecture Search, Generative Adversarial Networks and Reinforcement Learning.
+bio: My research interests include Self-Supervised Learning, Neural Architecture Search and Generative Adversarial Networks.
 
 interests:
+- Self-Supervised Learning
 - Neural Architecture Search
 - Generative Adversarial Networks
-- Reinforcement Learning
 
 education:
   courses:
