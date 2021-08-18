@@ -37,7 +37,7 @@ featured: true
 
 links:
 url_pdf: https://arxiv.org/pdf/2011.10904
-#url_code: 'https://github.com/orashi/AlacGAN'
+url_code: 'https://github.com/orashi/NSE_NAS'
 #url_dataset: 'https://pan.baidu.com/s/1oHBqdo2cdM8jOmAaix9xpw'
 #- name: Custom Link
 #  url: http://example.org
