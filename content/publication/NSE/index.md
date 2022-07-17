@@ -46,7 +46,7 @@ url_code: 'https://github.com/orashi/NSE_NAS'
 #url_project: ''
 #url_slides: ''
 #url_source: '#'
-#url_video: '#'
+url_video: 'https://www.youtube.com/watch?v=fq21WBaumRc&t=18s'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
