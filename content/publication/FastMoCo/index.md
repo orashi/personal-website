@@ -1,5 +1,5 @@
 ---
-title: "Evolving Search Space for Neural Architecture Search"
+title: "Fast-MoCo: Boost Momentum-based Contrastive Learning with Combinatorial Patches"
 authors:
 - orashi
 - Chen Lin
