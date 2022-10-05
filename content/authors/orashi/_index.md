@@ -82,6 +82,8 @@ and [Prof. Luping Zhou](https://sydney.edu.au/engineering/people/luping.zhou.php
 degree in Software Engineering and B.A. dual degree in Japanese from the International School of Information Science & Engineering, 
 Dalian University of Technology in 2019.
 
-# Recently, I have been fascinated by significant progress on controlled image synthesis; foundation
-# models trained on broad data with diffusion prior have demonstrated promising potential for AI application in the art
-# and anime industry. I am looking for opportunities to participate in developing such systems. 
+[//]: # (Recently, I have been fascinated by significant progress on controlled image synthesis; foundation)
+
+[//]: # (models trained on broad data with diffusion prior have demonstrated promising potential for AI application in the art)
+
+[//]: # (and anime industry. I am looking for opportunities to participate in developing such systems. )
