@@ -64,10 +64,10 @@ links:
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-# image:
-#  caption: '(a): Comparison with state-of-the-arts on ImageNet. All methods uses ResNet-50 encoders and are measured with Top-1 linear evaluation accuracy. (b): Overview of Fast-MoCo that includes the Split-Encode-Combine pipeline.'
-#  focal_point: ""
-#  preview_only: false
+image:
+  #caption: '(a): Comparison with state-of-the-arts on ImageNet. All methods uses ResNet-50 encoders and are measured with Top-1 linear evaluation accuracy. (b): Overview of Fast-MoCo that includes the Split-Encode-Combine pipeline.'
+  focal_point: ""
+  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
