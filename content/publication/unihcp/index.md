@@ -1,7 +1,7 @@
 ---
 title: "UniHCP: A Unified Model for Human-Centric Perceptions"
 authors:
-- orashi*
+- Yuanzheng Ci*
 - Yizhou Wang*
 - Meilin Chen
 - Shixiang Tang
