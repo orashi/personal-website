@@ -21,7 +21,7 @@ organizations:
 bio: My research interests include Foundation Model, Self-Supervised Learning, Neural Architecture Search and Generative Adversarial Networks.
 
 interests:
-- Foundation Model
+- Foundation Models
 - Self-Supervised Learning
 - Neural Architecture Search
 - Controlled Image Synthesis
@@ -62,7 +62,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 - icon: cv
   icon_pack: ai
-  link: files/CV_2020.pdf
+  link: files/CV_2022_11.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
