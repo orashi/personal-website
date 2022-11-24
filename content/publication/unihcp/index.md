@@ -1,8 +1,8 @@
 ---
-title: "Fast-MoCo: Boost Momentum-based Contrastive Learning with Combinatorial Patches"
+title: "UniHCP: A Unified Model for Human-Centric Perceptions"
 authors:
-- orashi
-- Yizhou Wang
+- orashi*
+- Yizhou Wang*
 - Meilin Chen
 - Shixiang Tang
 - Lei Bai
