@@ -1,8 +1,8 @@
 ---
 title: "Fast-MoCo: Boost Momentum-based Contrastive Learning with Combinatorial Patches"
 authors:
-- orashi*
-- Yizhou Wang*
+- orashi
+- Yizhou Wang
 - Meilin Chen
 - Shixiang Tang
 - Lei Bai
