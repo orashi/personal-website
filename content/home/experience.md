@@ -25,10 +25,14 @@ date_format = "Jan 2006"
   date_start = "2018-07-31"
   date_end = ""
   description = """
-#Proposed a novel neural architecture search space and a corresponding algorithm that outperformed previous state-of-
-#the-art models in terms of accuracy under resource constraints. Also a major contributor to the NAS tool chain of the
-#sensetime research.
-#https://wuwei-ai.org/ucg-members/
+
+[//]: # (#Proposed a novel neural architecture search space and a corresponding algorithm that outperformed previous state-of-)
+
+[//]: # (#the-art models in terms of accuracy under resource constraints. Also a major contributor to the NAS tool chain of the)
+
+[//]: # (#sensetime research.)
+
+[//]: # (#https://wuwei-ai.org/ucg-members/)
   """
 #  description = """
 #  Responsibilities include:
@@ -46,7 +50,8 @@ date_format = "Jan 2006"
   date_start = "2016-12-01"
   date_end = "2018-07-30"
   description = """
-#Researched Generative Adversarial Networks and their application on anime line art colorization.
+
+[//]: # (#Researched Generative Adversarial Networks and their application on anime line art colorization.)
 """
 
 +++
