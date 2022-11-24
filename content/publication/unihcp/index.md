@@ -31,9 +31,7 @@ abstract: Human-centric perceptions (e.g., pose estimation, human parsing, pedes
 
 
 # Summary. An optional shortened abstract.
-summary:  We introduce a Unified Model for Human-Centric Perceptions (UniHCP), which can easily handle multiple distinctly 
-defined human-centric tasks simultaneously, be trained at scale and obtains a series of SOTA performances over
-a wide spectrum of human-centric benchmarks.
+summary:  We introduce a Unified Model for Human-Centric Perceptions (UniHCP), which can easily handle multiple distinctly defined human-centric tasks simultaneously, be trained at scale and obtains a series of SOTA performances over a wide spectrum of human-centric benchmarks.
 
 
 tags:
