@@ -1,5 +1,5 @@
 ---
-title: "UniHCP: A Unified Model for Human-Centric Perceptions"
+title: "HumanBench: Towards General Human-centric Perception with Projector Assisted Pretraining"
 authors:
 - Shixiang Tang
 - Cheng Chen
