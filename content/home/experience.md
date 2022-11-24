@@ -19,15 +19,16 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Research Intern"
-  company = "Urban Computing Group, SenseTime Group Limited"
-  company_url = "https://wuwei-ai.org/ucg-members/"
+  company = "SenseTime Group Limited"
+  company_url = ""
   location = "Beijing, China"
   date_start = "2018-07-31"
   date_end = ""
   description = """
-Proposed a novel neural architecture search space and a corresponding algorithm that outperformed previous state-of-
-the-art models in terms of accuracy under resource constraints. Also a major contributor to the NAS tool chain of the
-sensetime research.
+# Proposed a novel neural architecture search space and a corresponding algorithm that outperformed previous state-of-
+# the-art models in terms of accuracy under resource constraints. Also a major contributor to the NAS tool chain of the
+# sensetime research.
+# https://wuwei-ai.org/ucg-members/
   """
 #  description = """
 #  Responsibilities include:
@@ -44,6 +45,8 @@ sensetime research.
   location = "Dalian, China"
   date_start = "2016-12-01"
   date_end = "2018-07-30"
-  description = """Researched Generative Adversarial Networks and their application on anime line art colorization."""
+  description = """
+# Researched Generative Adversarial Networks and their application on anime line art colorization.
+"""
 
 +++
