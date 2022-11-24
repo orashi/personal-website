@@ -46,6 +46,7 @@ a wide spectrum of human-centric benchmarks.
 
 
 tags:
+- Unified Model
 featured: false
 
 links:
