@@ -1,21 +1,23 @@
 ---
 title: "UniHCP: A Unified Model for Human-Centric Perceptions"
 authors:
-- Yuanzheng Ci*
-- Yizhou Wang*
-- Meilin Chen
 - Shixiang Tang
+- Cheng Chen
+- Meilin Chen
+- Qingsong Xie
+- Yizhou Wang
+- Yuanzheng Ci
 - Lei Bai
 - Feng Zhu
+- Haiyang Yang
+- Li Yi
 - Rui Zhao
-- Fengwei Yu
-- Donglian Qi
 - Wanli Ouyang
-date: "2022-11-18T00:00:00Z"
+date: "2022-11-17T00:00:00Z"
 
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2022-11-18T00:00:00Z"
+publishDate: "2022-11-17T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -27,11 +29,11 @@ publication_types: ["1"]
 publication: Under Review
 publication_short: Under Review
 
-abstract: Human-centric perceptions (e.g., pose estimation, human parsing, pedestrian detection, person re-identification, etc.) play a key role in industrial applications of visual models. While specific human-centric tasks have their own relevant semantic aspect to focus on, they also share the same underlying semantic structure of the human body. However, few works have attempted to exploit such homogeneity and design a general-propose model for human-centric tasks. In this work, we revisit a broad range of human-centric tasks and unify them in a minimalist manner. We propose UniHCP, a Unified Model for Human-Centric Perceptions, which unifies a wide range of human-centric tasks in a simplified end-to-end manner with the plain vision transformer architecture. With large-scale joint training on 33 human-centric datasets, UniHCP can outperform strong baselines on several in-domain and downstream tasks by direct evaluation. When adapted to a specific task, UniHCP achieves new SOTAs on a wide range of human-centric tasks, e.g., 69.8 mIoU on CIHP for human parsing, 86.18 ma on PA-100K for attribute prediction, 90.3 mAP on Market1501 for ReID, and 85.8 JI on CrowdHuman for pedestrian detection, performing better than specialized models tailored for each task.
+abstract: Human-centric perceptions include a variety of vision tasks, which have widespread industrial applications, including surveillance, autonomous driving, and metaverse.  It is desirable to have a general pretrain model for versatile human-centric downstream tasks. This paper  forges ahead along this path from the aspects of both benchmark and pretraining methods. Specifically, we propose a \textbf{HumanBench} based on existing datasets to comprehensively evaluate on the common ground the generalization abilities of different pretraining methods on 19 datasets from 6 diverse downstream tasks, including person ReID, pose estimation, human parsing, pedestrian attribute recognition, pedestrian detection, and crowd counting. To learn both coarse-grained and fine-grained knowledge in human bodies, we further propose a \textbf{P}rojector \textbf{A}ssis\textbf{T}ed \textbf{H}ierarchical pretraining method (\textbf{PATH}) to learn diverse knowledge at different granularity levels. Comprehensive evaluations on HumanBench show that our PATH achieves new state-of-the-art results on 17 downstream datasets and on-par results on the other 2 datasets.
 
 
 # Summary. An optional shortened abstract.
-summary:  We introduce a Unified Model for Human-Centric Perceptions (UniHCP), which can easily handle multiple distinctly defined human-centric tasks simultaneously, be trained at scale and obtains a series of SOTA performances over a wide spectrum of human-centric benchmarks.
+summary:  
 
 
 tags:
