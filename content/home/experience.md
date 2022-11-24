@@ -45,7 +45,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Research Assistant"
   company = "DUT Medial Lab, Dalian University of Technology"
-  company_url = "http://dutmedia.org"
+  company_url = ""
   location = "Dalian, China"
   date_start = "2016-12-01"
   date_end = "2018-07-30"
