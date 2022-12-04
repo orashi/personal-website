@@ -36,7 +36,7 @@ summary:  We introduce a Unified Model for Human-Centric Perceptions (UniHCP), w
 
 tags:
 - Unified Model
-featured: false
+featured: true
 
 links:
 #url_pdf:  
@@ -54,9 +54,9 @@ links:
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  #caption: '(a): Comparison with state-of-the-arts on ImageNet. All methods uses ResNet-50 encoders and are measured with Top-1 linear evaluation accuracy. (b): Overview of Fast-MoCo that includes the Split-Encode-Combine pipeline.'
+  caption: 'UniHCP handles a massive collection of human-centric tasks uniformly by task-specific queries and a task-guided interpreter, all results are yielded in parallel through a simple encoder-decoder transformer architecture.'
   focal_point: ""
-  preview_only: false
+  preview_only: true
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
