@@ -56,7 +56,7 @@ links:
 image:
   caption: 'UniHCP handles a massive collection of human-centric tasks uniformly by task-specific queries and a task-guided interpreter, all results are yielded in parallel through a simple encoder-decoder transformer architecture.'
   focal_point: ""
-  preview_only: true
+  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
