@@ -26,7 +26,7 @@ publishDate: "2022-11-17T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In The IEEE/CVF Conference on Computer Vision and Pattern Recognition
+publication: In The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2023
 publication_short: In *CVPR 2023*
 
 abstract: Human-centric perceptions include a variety of vision tasks, which have widespread industrial applications, including surveillance, autonomous driving, and metaverse.  It is desirable to have a general pretrain model for versatile human-centric downstream tasks. This paper  forges ahead along this path from the aspects of both benchmark and pretraining methods. Specifically, we propose a \textbf{HumanBench} based on existing datasets to comprehensively evaluate on the common ground the generalization abilities of different pretraining methods on 19 datasets from 6 diverse downstream tasks, including person ReID, pose estimation, human parsing, pedestrian attribute recognition, pedestrian detection, and crowd counting. To learn both coarse-grained and fine-grained knowledge in human bodies, we further propose a \textbf{P}rojector \textbf{A}ssis\textbf{T}ed \textbf{H}ierarchical pretraining method (\textbf{PATH}) to learn diverse knowledge at different granularity levels. Comprehensive evaluations on HumanBench show that our PATH achieves new state-of-the-art results on 17 downstream datasets and on-par results on the other 2 datasets.
