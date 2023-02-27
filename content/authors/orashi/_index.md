@@ -77,7 +77,7 @@ user_groups:
 
 
 I am a Ph.D. candidate in the School of Electrical & Information Engineering, The University of Sydney, where I work at 
-the [SIGMA Lab](https://sigmalab-usyd.github.io/) under the supervision of [Prof. Wanli Ouyang](https://sydney.edu.au/engineering/people/wanli.ouyang.php) 
+the [SIGMA Lab](https://sigmalab-usyd.github.io/) under the supervision of [Prof. Wanli Ouyang](https://wlouyang.github.io/) 
 and [Prof. Luping Zhou](https://sydney.edu.au/engineering/people/luping.zhou.php). Before that, I received my B.Eng. 
 degree in Software Engineering and B.A. dual degree in Japanese from the International School of Information Science & Engineering, 
 Dalian University of Technology in 2019.
