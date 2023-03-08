@@ -1,8 +1,8 @@
 ---
 title: "UniHCP: A Unified Model for Human-Centric Perceptions"
 authors:
-- Yuanzheng Ci*
-- Yizhou Wang*
+- Yuanzheng Ci
+- Yizhou Wang
 - Meilin Chen
 - Shixiang Tang
 - Lei Bai
@@ -11,6 +11,9 @@ authors:
 - Fengwei Yu
 - Donglian Qi
 - Wanli Ouyang
+author_notes:
+- "Equal contribution"
+- "Equal contribution"
 date: "2022-11-18T00:00:00Z"
 
 
@@ -39,8 +42,9 @@ tags:
 featured: true
 
 links:
-#url_pdf:  
-#url_video: ''
+
+[//]: # (#url_pdf:  )
+#url_video: 'https://arxiv.org/pdf/2303.02936'
 #url_code: 'https://github.com/orashi/Fast-MoCo'
 #url_dataset: 'https://pan.baidu.com/s/1oHBqdo2cdM8jOmAaix9xpw'
 #- name: Custom Link
