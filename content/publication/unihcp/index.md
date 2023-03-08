@@ -1,8 +1,8 @@
 ---
 title: "UniHCP: A Unified Model for Human-Centric Perceptions"
 authors:
-- Yuanzheng Ci
-- Yizhou Wang
+- Yuanzheng Ci*
+- Yizhou Wang*
 - Meilin Chen
 - Shixiang Tang
 - Lei Bai

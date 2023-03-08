@@ -1,8 +1,8 @@
 ---
 title: "HumanBench: Towards General Human-centric Perception with Projector Assisted Pretraining"
 authors:
-- Shixiang Tang
-- Cheng Chen
+- Shixiang Tang*
+- Cheng Chen*
 - Meilin Chen
 - Qingsong Xie
 - Yizhou Wang
