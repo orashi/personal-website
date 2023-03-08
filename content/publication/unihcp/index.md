@@ -43,8 +43,8 @@ featured: true
 
 links:
 
-[//]: # (#url_pdf:  )
-#url_video: 'https://arxiv.org/pdf/2303.02936'
+url_pdf:  'https://arxiv.org/pdf/2303.02936'
+#url_video: 
 #url_code: 'https://github.com/orashi/Fast-MoCo'
 #url_dataset: 'https://pan.baidu.com/s/1oHBqdo2cdM8jOmAaix9xpw'
 #- name: Custom Link
