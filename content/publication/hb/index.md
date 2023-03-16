@@ -41,7 +41,7 @@ tags:
 featured: false
 
 links:
-#url_pdf:  
+url_pdf:  'https://arxiv.org/pdf/2303.05675'
 #url_video: ''
 #url_code: 'https://github.com/orashi/Fast-MoCo'
 #url_dataset: 'https://pan.baidu.com/s/1oHBqdo2cdM8jOmAaix9xpw'
