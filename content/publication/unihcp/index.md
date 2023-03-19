@@ -45,7 +45,7 @@ links:
 
 url_pdf:  'https://arxiv.org/pdf/2303.02936'
 #url_video: 
-#url_code: 'https://github.com/orashi/Fast-MoCo'
+url_code: 'https://github.com/OpenGVLab/UniHCP'
 #url_dataset: 'https://pan.baidu.com/s/1oHBqdo2cdM8jOmAaix9xpw'
 #- name: Custom Link
 #  url: http://example.org
