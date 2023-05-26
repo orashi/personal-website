@@ -28,7 +28,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: In the IEEE/CVF Conference on Computer Vision and Pattern Recognition 2023
-publication_short: In *CVPR 2023*
+publication_short: In *CVPR 2023*, VALSE 2023 spotlight
 
 abstract: Human-centric perceptions (e.g., pose estimation, human parsing, pedestrian detection, person re-identification, etc.) play a key role in industrial applications of visual models. While specific human-centric tasks have their own relevant semantic aspect to focus on, they also share the same underlying semantic structure of the human body. However, few works have attempted to exploit such homogeneity and design a general-propose model for human-centric tasks. In this work, we revisit a broad range of human-centric tasks and unify them in a minimalist manner. We propose UniHCP, a Unified Model for Human-Centric Perceptions, which unifies a wide range of human-centric tasks in a simplified end-to-end manner with the plain vision transformer architecture. With large-scale joint training on 33 human-centric datasets, UniHCP can outperform strong baselines on several in-domain and downstream tasks by direct evaluation. When adapted to a specific task, UniHCP achieves new SOTAs on a wide range of human-centric tasks, e.g., 69.8 mIoU on CIHP for human parsing, 86.18 ma on PA-100K for attribute prediction, 90.3 mAP on Market1501 for ReID, and 85.8 JI on CrowdHuman for pedestrian detection, performing better than specialized models tailored for each task.
 
@@ -36,6 +36,7 @@ abstract: Human-centric perceptions (e.g., pose estimation, human parsing, pedes
 # Summary. An optional shortened abstract.
 summary:  We introduce a Unified Model for Human-Centric Perceptions (UniHCP), which can easily handle multiple distinctly defined human-centric tasks simultaneously, be trained at scale and obtains a series of SOTA performances over a wide spectrum of human-centric benchmarks.
 
+* VALSE 2023 spotlight *
 
 tags:
 - Unified Model
@@ -53,7 +54,7 @@ url_code: 'https://github.com/OpenGVLab/UniHCP'
 #url_project: ''
 #url_slides: ''
 #url_source: '#'
-#url_video: '#'
+url_video: 'https://youtu.be/K0_ffbSmiiM'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
