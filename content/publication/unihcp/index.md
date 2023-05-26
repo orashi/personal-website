@@ -50,7 +50,7 @@ url_code: 'https://github.com/OpenGVLab/UniHCP'
 #url_dataset: 'https://pan.baidu.com/s/1oHBqdo2cdM8jOmAaix9xpw'
 #- name: Custom Link
 #  url: http://example.org
-#url_poster: '#'
+url_poster: 'https://cvpr2023.thecvf.com/media/PosterPDFs/CVPR%202023/22268.png?t=1685051041.3059447'
 #url_project: ''
 #url_slides: ''
 #url_source: '#'
