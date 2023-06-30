@@ -33,16 +33,7 @@ date_format = "Jan 2006"
   location = "Beijing, China -> Remote"
   date_start = "2018-07-31"
   date_end = "2023-03-01"
-  description = """
-
-[//]: # (#Proposed a novel neural architecture search space and a corresponding algorithm that outperformed previous state-of-)
-
-[//]: # (#the-art models in terms of accuracy under resource constraints. Also a major contributor to the NAS tool chain of the)
-
-[//]: # (#sensetime research.)
-
-[//]: # (#https://wuwei-ai.org/ucg-members/)
-  """
+  description = ""
 #  description = """
 #  Responsibilities include:
 #  
@@ -58,9 +49,6 @@ date_format = "Jan 2006"
   location = "Dalian, China"
   date_start = "2016-12-01"
   date_end = "2018-07-30"
-  description = """
-
-[//]: # (#Researched Generative Adversarial Networks and their application on anime line art colorization.)
-"""
+  description = ""
 
 +++
