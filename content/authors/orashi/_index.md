@@ -26,7 +26,7 @@ interests:
 
 education:
   courses:
-  - course: Ph.D.
+  - course: Ph.D. in Computer Vision
     institution: The University of Sydney
     year: 2019-2023
   - course: B.A. in Japanese (Dual Degree)
@@ -50,12 +50,12 @@ social:
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/YuanzhengCi
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=UoMoRM8AAAAJ&hl=en
 - icon: github
   icon_pack: fab
   link: https://github.com/orashi
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=UoMoRM8AAAAJ&hl=en
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/yuanzheng-ci-709305118/
