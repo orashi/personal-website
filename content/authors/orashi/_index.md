@@ -47,9 +47,9 @@ social:
 #- icon: zhihu
 #  icon_pack: fab
 #  link: 'https://www.zhihu.com/people/ci-yuan-zheng'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/YuanzhengCi
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/YuanzhengCi
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=UoMoRM8AAAAJ&hl=en
