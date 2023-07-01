@@ -76,7 +76,7 @@ user_groups:
 - Visitors
 ---
 
-I'm currently working remotely for [Spellbrush](https://spellbrush.com/) (an exciting startup!), will join their Japan office in 2023.
+I'm currently working remotely for [Spellbrush](https://spellbrush.com/) (an exciting startup!) and will join its Japan office in the near future.
 I did my Ph.D. in the School of Electrical & Information Engineering, The University of Sydney, where I worked at 
 the [MMLab@Sydney](https://sigmalab-usyd.github.io/) under the supervision of [Prof. Wanli Ouyang](https://wlouyang.github.io/) 
 and [Prof. Luping Zhou](https://sydney.edu.au/engineering/people/luping.zhou.php). Before that, I received my B.Eng. 
